@@ -1,0 +1,3 @@
+117987;ibrahim Kaptan;CENG1234,CENG2345
+124876;Ayse Yilmaz;CENG1234
+200709;Bahar Yorgun;
