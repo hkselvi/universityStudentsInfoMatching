@@ -24,7 +24,7 @@ def courses1(x):
 
 
 #ADDING NEW COURSE
-print("3. Soru")
+print("adding a new course..")
 def courses2(filename, code, cname, cinstructor, cregistered):
     fc = open(filename, "a")
     new_course = "{};{};{};{}\n".format(code,  cname, cinstructor, cregistered)
